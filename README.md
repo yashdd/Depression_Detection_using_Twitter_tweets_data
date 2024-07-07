@@ -18,7 +18,7 @@ support and treatment as most of the times it goes untreated and becomes severe.
 analysis can be applied across various fields, including healthcare, marketing, finance, and
 social sciences, contributing to interdisciplinary research and innovation.
 
-PHASE 2- DATA UNDERSTANDING
+DATA UNDERSTANDING
 In the data understanding phase, we plan to utilize the various Twitter APIs to collect a
 substantial volume of tweets related to diverse topics, with a specific focus on mental health.
 This data will encompass a mix of positive and negative sentiments, reflecting a broad spectrum
